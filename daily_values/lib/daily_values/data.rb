@@ -1,0 +1,1 @@
+a = Scraper.new(Essential Decadent Chocolate Brownie with Greek Yogurt Chips - Naturally Flavored, 78100, 110, 2, 15, 11)
